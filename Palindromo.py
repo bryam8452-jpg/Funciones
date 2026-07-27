@@ -15,3 +15,4 @@ else:
     print("No es palíndromo")
 
 print("Longitud de la cadena limpia:", len(cadena_limpia))
+#determina si la frase es palindromo o no
