@@ -14,3 +14,4 @@ def main():
     print("Programa terminado")
     print("Cantidad de palabras procesadas:", contador)
 main()
+#cuenta cuantas palabras hay en una lista de palabras y numeros
