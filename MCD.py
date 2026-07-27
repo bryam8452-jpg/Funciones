@@ -23,3 +23,4 @@ if num1 == 0 and num2 == 0:
     print("Caso especial: ambos números son cero")
 else:
     print("Programa terminado")
+    #calcula el MCD 
