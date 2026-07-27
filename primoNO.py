@@ -15,3 +15,4 @@ if es_primo(num):
     print("Es primo")
 else:
     print("No es primo")
+    #Detecta si un numero es primo o no
