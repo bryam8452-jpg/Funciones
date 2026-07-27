@@ -21,3 +21,4 @@ try:
         print("Diferencia significativa")
 except ValueError as e:
     print("Error:", e)
+    #calcula la raiz cuadrada y si los resultados coinciden
