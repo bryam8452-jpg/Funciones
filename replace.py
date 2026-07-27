@@ -24,3 +24,4 @@ else:
     print("Con replace:", texto_mod2)
     if texto_mod == texto_mod2:
         print("Correcto")
+        #agrega funcion para reemplazar manual de caracteres 
